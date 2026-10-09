@@ -1,4 +1,4 @@
-Student @ University of Wroclaw
+## Student @ University of Wroclaw
 
 ## Technologies
 
